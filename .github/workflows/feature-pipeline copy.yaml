@@ -1,4 +1,4 @@
-name: feature-pipeline
+name: featureGA-pipeline
 on: [push]
 permissions:
   contents: read
