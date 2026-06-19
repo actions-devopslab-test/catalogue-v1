@@ -22,8 +22,5 @@ jobs:
       component: catalogue
       environment: dev
     secrets: inherit
-    #test for check
-    #test gain
-    #gain fun
-    #fun again
-    #test
+
+  
